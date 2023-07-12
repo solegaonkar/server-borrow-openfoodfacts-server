@@ -1,5 +1,43 @@
 # Changelog
 
+## [2.15.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.14.0...v2.15.0) (2023-07-12)
+
+
+### Features
+
+* Polish adjustment on ingredients parsing ([#8371](https://github.com/openfoodfacts/openfoodfacts-server/issues/8371)) ([08ba32e](https://github.com/openfoodfacts/openfoodfacts-server/commit/08ba32ecb8f2a876176f2f13b021ab6cb3848c00))
+* quality test for nutriscore on olive oils ([#8360](https://github.com/openfoodfacts/openfoodfacts-server/issues/8360)) ([415d68c](https://github.com/openfoodfacts/openfoodfacts-server/commit/415d68c15428fd0aa97f053e0054478c1b9472e9))
+* updated test for serving_size for nutrition table ([#8685](https://github.com/openfoodfacts/openfoodfacts-server/issues/8685)) ([6f5a88b](https://github.com/openfoodfacts/openfoodfacts-server/commit/6f5a88b72d320902136b3929bd551cf3ca789706))
+
+
+### Bug Fixes
+
+* Add missing string to common.pot ([#8677](https://github.com/openfoodfacts/openfoodfacts-server/issues/8677)) ([9f151e1](https://github.com/openfoodfacts/openfoodfacts-server/commit/9f151e1e3b832bf7ce92b6ca17bf8840f61844c4)), closes [#8636](https://github.com/openfoodfacts/openfoodfacts-server/issues/8636)
+* fix bug template ([#8649](https://github.com/openfoodfacts/openfoodfacts-server/issues/8649)) ([5b0e1a0](https://github.com/openfoodfacts/openfoodfacts-server/commit/5b0e1a039bc9af32733fd2a3e97e4892358cc38a))
+* Link to the product page opens in a new tab ([#8630](https://github.com/openfoodfacts/openfoodfacts-server/issues/8630)) ([d09f16b](https://github.com/openfoodfacts/openfoodfacts-server/commit/d09f16b759da09ebe0d910b04e0f4feaa55c1218))
+
+
+### Taxonomy
+
+* Bulgarian additions ([#8643](https://github.com/openfoodfacts/openfoodfacts-server/issues/8643)) ([e1d322f](https://github.com/openfoodfacts/openfoodfacts-server/commit/e1d322f6bc8d190efb9e9a1bbdacc24a9ebd54a3))
+* Bulgarian addtitions ([e1d322f](https://github.com/openfoodfacts/openfoodfacts-server/commit/e1d322f6bc8d190efb9e9a1bbdacc24a9ebd54a3))
+* corrections tartlets ([#8665](https://github.com/openfoodfacts/openfoodfacts-server/issues/8665)) ([3d64164](https://github.com/openfoodfacts/openfoodfacts-server/commit/3d641643f9a8c06b71b6584b448341b5350f1fbc))
+* creaming powder, creaming agent ([#8631](https://github.com/openfoodfacts/openfoodfacts-server/issues/8631)) ([e225e7f](https://github.com/openfoodfacts/openfoodfacts-server/commit/e225e7fc7b0ef47bb85ea8d6cbff57f711146de2))
+* Danish additions, corrections ([#8645](https://github.com/openfoodfacts/openfoodfacts-server/issues/8645)) ([c18635e](https://github.com/openfoodfacts/openfoodfacts-server/commit/c18635e2d83cd093b6f01372fbd71c66a101d5c1))
+* fix proxy_ciqual_food_code ([#8683](https://github.com/openfoodfacts/openfoodfacts-server/issues/8683)) ([0a2805a](https://github.com/openfoodfacts/openfoodfacts-server/commit/0a2805a29dfa073afcd0bb707e8fcd7dfa0a2dad))
+* some fixes to ingredients taxonomy ([#8684](https://github.com/openfoodfacts/openfoodfacts-server/issues/8684)) ([32a5705](https://github.com/openfoodfacts/openfoodfacts-server/commit/32a57056996c4c86f3760038235d7fcd8dc5949b))
+
+
+### Technical
+
+* adding a synonym test for the suggestion feature ([#8674](https://github.com/openfoodfacts/openfoodfacts-server/issues/8674)) ([453c6b1](https://github.com/openfoodfacts/openfoodfacts-server/commit/453c6b1419e92820b4de2ddcf469094c14f8341f))
+* explanation on how to download wget on Windows ([#8660](https://github.com/openfoodfacts/openfoodfacts-server/issues/8660)) ([3a21745](https://github.com/openfoodfacts/openfoodfacts-server/commit/3a217457ecca8bda8586ece557aa90ab7099fab0))
+* fix formating and broken link ([#8657](https://github.com/openfoodfacts/openfoodfacts-server/issues/8657)) ([8b15428](https://github.com/openfoodfacts/openfoodfacts-server/commit/8b15428889cfada93ffa99629b88898c68dbf102))
+* instructions to activate the dev mode for Windows user ([#8666](https://github.com/openfoodfacts/openfoodfacts-server/issues/8666)) ([93852a0](https://github.com/openfoodfacts/openfoodfacts-server/commit/93852a0677563e3ddfafce83dc9582c6f10908eb))
+* mkdocs.yml support tables ([#8647](https://github.com/openfoodfacts/openfoodfacts-server/issues/8647)) ([662a711](https://github.com/openfoodfacts/openfoodfacts-server/commit/662a711e2113beea8d52920872050f0e20a52bb6))
+* remove off:off references in the API documentation ([#8680](https://github.com/openfoodfacts/openfoodfacts-server/issues/8680)) ([d0b3715](https://github.com/openfoodfacts/openfoodfacts-server/commit/d0b3715a9aae481cde003fc000f090c99cf07909)), closes [#8675](https://github.com/openfoodfacts/openfoodfacts-server/issues/8675)
+* update of Makefile target ([#8669](https://github.com/openfoodfacts/openfoodfacts-server/issues/8669)) ([d1ea62e](https://github.com/openfoodfacts/openfoodfacts-server/commit/d1ea62e72c14d98ecd74d03ca8f90fde2f80ca7b))
+
 ## [2.14.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.13.0...v2.14.0) (2023-06-29)
 
 
