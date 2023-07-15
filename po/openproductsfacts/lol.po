@@ -28,16 +28,6 @@ msgctxt "ios_app_link"
 msgid "https://apps.apple.com/app/open-beauty-facts/id1122926380"
 msgstr "crwdns199914:0crwdne199914:0"
 
-#. make sure the image exists with your country code at https://static.openfoodfacts.org/images/misc/openfoodfacts-logo-XX-178x150.png. Otherwise, ask @teolemon how to create a translated logo
-msgctxt "logo"
-msgid "openproductsfacts-logo-en-178x150.png"
-msgstr "crwdns199916:0crwdne199916:0"
-
-#. make sure the image exists with your country code at https://static.openfoodfacts.org/images/misc/openfoodfacts-logo-XX-356x300.png. Otherwise, ask @teolemon how to create a translated logo
-msgctxt "logo2x"
-msgid "openproductsfacts-logo-en-356x300.png"
-msgstr "crwdns199918:0crwdne199918:0"
-
 msgctxt "site_name"
 msgid "Open Products Facts"
 msgstr "crwdns199920:0crwdne199920:0"
@@ -45,7 +35,7 @@ msgstr "crwdns199920:0crwdne199920:0"
 #. change https://www.microsoft.com/en-us/p/ to https://www.microsoft.com/fr-fr/p/ (for instance) and make sure the url works
 msgctxt "windows_phone_app_link"
 msgid "https://apps.microsoft.com/store/detail/open-food-facts-scan-to-get-nutriscore-ecoscore-and-more/XP8LT18SRPKLRG"
-msgstr "crwdns199922:0crwdne199922:0"
+msgstr "crwdns209407:0crwdne209407:0"
 
 msgctxt "tagline"
 msgid "Open Products Facts gathers information and data on products from around the world."

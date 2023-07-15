@@ -484,8 +484,16 @@ msgid "Delete the images"
 msgstr "crwdns201410:0crwdne201410:0"
 
 msgctxt "delete_user"
-msgid "Delete an user"
-msgstr "crwdns201412:0crwdne201412:0"
+msgid "Delete a user"
+msgstr "crwdns209427:0crwdne209427:0"
+
+msgctxt "delete_confirmation"
+msgid "This will delete your user details and anonymise all of your contributions. Please re-enter your user name to confirm."
+msgstr "crwdns209429:0crwdne209429:0"
+
+msgctxt "danger_zone"
+msgid "Danger Zone"
+msgstr "crwdns209431:0crwdne209431:0"
 
 msgctxt "diff_add"
 msgid "Added:"
@@ -2320,6 +2328,10 @@ msgctxt "serving_size_note"
 msgid "If the nutrition facts table contains values for the prepared product, indicate the total serving size of the prepared product (including added water or milk)."
 msgstr "crwdns202300:0crwdne202300:0"
 
+msgctxt "serving_too_small_for_nutrition_analysis"
+msgid "Serving size is too small (5 g / 5 ml or less) to calculate 100 g / 100 ml values and perform any further nutritional analysis"
+msgstr "crwdns209283:0crwdne209283:0"
+
 msgctxt "session_title"
 msgid "Sign-in"
 msgstr "crwdns202302:0crwdne202302:0"
@@ -2541,6 +2553,10 @@ msgctxt "users_without_products"
 msgid "Products not added by %s"
 msgstr "crwdns202410:0%scrwdne202410:0"
 
+msgctxt "video_tutorials"
+msgid "Video Tutorials"
+msgstr "crwdns209379:0crwdne209379:0"
+
 msgctxt "view"
 msgid "view"
 msgstr "crwdns202412:0crwdne202412:0"
@@ -2578,7 +2594,7 @@ msgstr "crwdns202426:0crwdne202426:0"
 # Please change en-us to fr-fr, pt-br or de-ch…Check the URL !
 msgctxt "windows_phone_app_link"
 msgid "https://apps.microsoft.com/store/detail/open-food-facts-scan-to-get-nutriscore-ecoscore-and-more/XP8LT18SRPKLRG"
-msgstr "crwdns202428:0crwdne202428:0"
+msgstr "crwdns209403:0crwdne209403:0"
 
 msgctxt "you_are_connected_as_x"
 msgid "You are connected as %s."
@@ -2626,15 +2642,15 @@ msgstr "crwdns202448:0crwdne202448:0"
 
 msgctxt "nutrition_grade_fr_fruits_vegetables_nuts_estimate_warning"
 msgid "Warning: the amount of fruits, vegetables and nuts is not specified on the label, it was manually estimated from the list of ingredients: %d"
-msgstr "crwdns208799:0%dcrwdne208799:0"
+msgstr "crwdns209171:0%dcrwdne209171:0"
 
 msgctxt "nutrition_grade_fr_fruits_vegetables_nuts_from_category_warning"
 msgid "Warning: the amount of fruits, vegetables and nuts is not specified on the label, it was estimated from the category (%s) of the product: %d"
-msgstr "crwdns208801:0%scrwdnd208801:0%dcrwdne208801:0"
+msgstr "crwdns209173:0%scrwdnd209173:0%dcrwdne209173:0"
 
 msgctxt "nutrition_grade_fr_fruits_vegetables_nuts_estimate_from_ingredients_warning"
 msgid "Warning: the amount of fruits, vegetables and nuts is not specified on the label, it was estimated from the list of ingredients: %d"
-msgstr "crwdns208803:0%dcrwdne208803:0"
+msgstr "crwdns209175:0%dcrwdne209175:0"
 
 msgctxt "nutrition_grade_fr_title"
 msgid "NutriScore color nutrition grade"
@@ -2883,12 +2899,12 @@ msgid "Risk of overexposure"
 msgstr "crwdns202576:0crwdne202576:0"
 
 msgctxt "additives_efsa_evaluation_overexposure_risk_high"
-msgid "The European Food Safety Authority (EFSA) has determined that some population groups have a high risk of consuming too much <tag>."
-msgstr "crwdns202578:0crwdne202578:0"
+msgid "The European Food Safety Authority (EFSA) has determined that some population groups have a high risk of reaching or exceeding the Acceptable Daily Intake (ADI) for <tag>."
+msgstr "crwdns209307:0crwdne209307:0"
 
 msgctxt "additives_efsa_evaluation_overexposure_risk_moderate"
-msgid "The European Food Safety Authority (EFSA) has determined that some population groups have a moderate risk of consuming too much <tag>."
-msgstr "crwdns202580:0crwdne202580:0"
+msgid "The European Food Safety Authority (EFSA) has determined that some population groups have a moderate risk of reaching or exceeding the Acceptable Daily Intake (ADI) for <tag>."
+msgstr "crwdns209309:0crwdne209309:0"
 
 msgctxt "additives_efsa_evaluation_overexposure_risk_description"
 msgid "To evaluate your exposure to the <tag> food additive, you can browse our list of products that contain it. See the list of <nb_products> products with <tag> below."
@@ -2915,12 +2931,12 @@ msgid "No or very low risk of over exposure"
 msgstr "crwdns202592:0crwdne202592:0"
 
 msgctxt "additives_efsa_evaluation_exposure_greater_than_adi"
-msgid "Risk of exceeding the acceptable daily intake (ADI)"
-msgstr "crwdns202594:0crwdne202594:0"
+msgid "Risk of reaching or exceeding the acceptable daily intake (ADI)"
+msgstr "crwdns209311:0crwdne209311:0"
 
 msgctxt "additives_efsa_evaluation_exposure_greater_than_noael"
-msgid "Risk of exceeding the maximum dose without adverse effect (No observed adverse effect level - NOAEL)"
-msgstr "crwdns202596:0crwdne202596:0"
+msgid "Risk of reaching exceeding the maximum dose without adverse effect (No observed adverse effect level - NOAEL)"
+msgstr "crwdns209313:0crwdne209313:0"
 
 msgctxt "additives_efsa_evaluation_exposure_mean_greater_than_adi"
 msgid "Groups with more than 50% of members exceeding the acceptable daily intake (ADI)"
@@ -2939,20 +2955,20 @@ msgid "Groups with more than 5% of members exceeding the maximum dose without ad
 msgstr "crwdns202604:0crwdne202604:0"
 
 msgctxt "exposure_title_95th"
-msgid "Some people"
-msgstr "crwdns202606:0crwdne202606:0"
+msgid "Moderate risk"
+msgstr "crwdns209315:0crwdne209315:0"
 
 msgctxt "exposure_description_95th"
-msgid "over 5%"
-msgstr "crwdns202608:0crwdne202608:0"
+msgid "5% of people or more"
+msgstr "crwdns209317:0crwdne209317:0"
 
 msgctxt "exposure_title_mean"
-msgid "Most people"
-msgstr "crwdns202610:0crwdne202610:0"
+msgid "High risk"
+msgstr "crwdns209319:0crwdne209319:0"
 
 msgctxt "exposure_description_mean"
-msgid "over 50%"
-msgstr "crwdns202612:0crwdne202612:0"
+msgid "50% of people or more"
+msgstr "crwdns209321:0crwdne209321:0"
 
 msgctxt "wikipedia"
 msgid "Wikipedia"
@@ -3081,6 +3097,10 @@ msgstr "crwdns202674:0%scrwdne202674:0"
 msgctxt "correctors_without_products"
 msgid "Products not corrected by %s"
 msgstr "crwdns202676:0%scrwdne202676:0"
+
+msgctxt "contributors_products"
+msgid "Products added by %s"
+msgstr "crwdns209635:0%scrwdne209635:0"
 
 msgctxt "editors_products"
 msgid "Products edited by %s"
@@ -4259,8 +4279,8 @@ msgid "Contributor"
 msgstr "crwdns203240:0crwdne203240:0"
 
 msgctxt "contributor_settings_description"
-msgid "Those settings allow you to personalize some aspect of the website"
-msgstr "crwdns203242:0crwdne203242:0"
+msgid "Those settings allow you to personalize some aspects of the website"
+msgstr "crwdns209381:0crwdne209381:0"
 
 msgctxt "display_barcode_in_search"
 msgid "Display barcode in search results"
@@ -4269,11 +4289,6 @@ msgstr "crwdns203244:0crwdne203244:0"
 msgctxt "edit_link_in_search"
 msgid "Add an edit link in search results"
 msgstr "crwdns203246:0crwdne203246:0"
-
-# leave the %d, it will be replaced by a number
-msgctxt "n_products_will_be_exported"
-msgid "%d products will be exported."
-msgstr "crwdns203248:0%dcrwdne203248:0"
 
 msgctxt "ciqual_food_name"
 msgid "CIQUAL food name"
@@ -4599,10 +4614,6 @@ msgctxt "export_product_page"
 msgid "Export product to public database"
 msgstr "crwdns203406:0crwdne203406:0"
 
-msgctxt "one_product_will_be_exported"
-msgid "1 product will be exported."
-msgstr "crwdns203408:0crwdne203408:0"
-
 msgctxt "no_products_to_export"
 msgid "No products to export."
 msgstr "crwdns203410:0crwdne203410:0"
@@ -4654,6 +4665,10 @@ msgstr "crwdns203432:0crwdne203432:0"
 msgctxt "attribute_additives_setting_name"
 msgid "No or few additives"
 msgstr "crwdns203434:0crwdne203434:0"
+
+msgctxt "attribute_additives_setting_note"
+msgid "Additives are markers of food processing, and excess consumption of some of them have undesirable health impacts."
+msgstr "crwdns209603:0crwdne209603:0"
 
 msgctxt "attribute_additives_unknown_title"
 msgid "Additives not computed"
@@ -4739,6 +4754,10 @@ msgstr "crwdns203472:0crwdne203472:0"
 msgctxt "attribute_ecoscore_setting_name"
 msgid "Low environmental impact (Eco-Score)"
 msgstr "crwdns203474:0crwdne203474:0"
+
+msgctxt "attribute_ecoscore_setting_note"
+msgid "The Eco-Score is an environmental score (ecoscore) from A to E which makes it easy to compare the impact of food products on the environment."
+msgstr "crwdns209605:0crwdne209605:0"
 
 # keep %s, it will be replaced by the letter A, B, C, D or E
 msgctxt "attribute_ecoscore_grade_title"
@@ -4880,6 +4899,18 @@ msgstr "crwdns203540:0crwdne203540:0"
 msgctxt "official_site"
 msgid "Official site"
 msgstr "crwdns203542:0crwdne203542:0"
+
+msgctxt "organization_members"
+msgid "Organization Members"
+msgstr "crwdns209413:0crwdne209413:0"
+
+msgctxt "number_of_members"
+msgid "Number of Members"
+msgstr "crwdns209415:0crwdne209415:0"
+
+msgctxt "serial_no"
+msgid "S.No"
+msgstr "crwdns209417:0crwdne209417:0"
 
 msgctxt "contact_form"
 msgid "Contact form"
@@ -5097,6 +5128,10 @@ msgctxt "number_of_products_with_changes_since_last_export"
 msgid "Number of products with changes since last export"
 msgstr "crwdns203644:0crwdne203644:0"
 
+msgctxt "number_of_products_withdrawn_from_the_market_since_last_export"
+msgid "Number of products withdrawn from the market since last export"
+msgstr "crwdns209177:0crwdne209177:0"
+
 msgctxt "only_export_products_with_changes"
 msgid "Only export products with changes"
 msgstr "crwdns203646:0crwdne203646:0"
@@ -5129,6 +5164,10 @@ msgstr "crwdns203658:0crwdne203658:0"
 msgctxt "attribute_forest_footprint_setting_name"
 msgid "Low risk of deforestation (Forest footprint)"
 msgstr "crwdns203660:0crwdne203660:0"
+
+msgctxt "attribute_forest_footprint_setting_note"
+msgid "The forest footprint corresponds to the risk of deforestation associated with its ingredients."
+msgstr "crwdns209607:0crwdne209607:0"
 
 msgctxt "attribute_forest_footprint_a_title"
 msgid "Very small forest footprint"
@@ -5246,8 +5285,8 @@ msgid "Remove all nutrient values"
 msgstr "crwdns203716:0crwdne203716:0"
 
 msgctxt "delete_user_process"
-msgid "User deleted."
-msgstr "crwdns203718:0crwdne203718:0"
+msgid "User is being deleted. This may take a few minutes."
+msgstr "crwdns209373:0crwdne209373:0"
 
 msgctxt "attribute_ecoscore_not_applicable_title"
 msgid "Eco-Score not yet applicable"
@@ -5987,6 +6026,10 @@ msgctxt "maybe_vegan_ingredients"
 msgid "Ingredients that may not be vegan"
 msgstr "crwdns204048:0crwdne204048:0"
 
+msgctxt "attribute_vegan_setting_note"
+msgid "To determine whether a product is vegan, we only rely on the list of ingredients."
+msgstr "crwdns209609:0crwdne209609:0"
+
 msgctxt "non_vegetarian_ingredients"
 msgid "Non-vegetarian ingredients"
 msgstr "crwdns204050:0crwdne204050:0"
@@ -5999,6 +6042,10 @@ msgctxt "maybe_vegetarian_ingredients"
 msgid "Ingredients that may not be vegetarian"
 msgstr "crwdns204054:0crwdne204054:0"
 
+msgctxt "attribute_vegetarian_setting_note"
+msgid "To determine whether a product is vegetarian, we only rely on the list of ingredients."
+msgstr "crwdns209611:0crwdne209611:0"
+
 msgctxt "palm_oil_ingredients"
 msgid "Ingredients that contain palm oil"
 msgstr "crwdns204056:0crwdne204056:0"
@@ -6010,6 +6057,10 @@ msgstr "crwdns204058:0crwdne204058:0"
 msgctxt "palm_oil_free_ingredients"
 msgid "No ingredients containing palm oil detected"
 msgstr "crwdns204060:0crwdne204060:0"
+
+msgctxt "attribute_palm_oil_setting_note"
+msgid "To determine whether a product contains palm oil, we only rely on the list of ingredients."
+msgstr "crwdns209613:0crwdne209613:0"
 
 msgctxt "unrecognized_ingredients"
 msgid "Unrecognized ingredients"
@@ -6493,4 +6544,53 @@ msgstr "crwdns206733:0crwdne206733:0"
 msgctxt "faq_for_producers"
 msgid "FAQ for producers"
 msgstr "crwdns206735:0crwdne206735:0"
+
+msgctxt "join_the_next_pros_meet_up"
+msgid "Join the next Pros' Meet-up"
+msgstr "crwdns209375:0crwdne209375:0"
+
+# variable names between { } must not be translated
+msgctxt "product_js_enter_value_between_0_and_max"
+msgid "Please enter a value between 0 and {max}."
+msgstr "crwdns209305:0{max}crwdne209305:0"
+
+msgctxt "product_js_sugars_warning"
+msgid "Sugars should not be higher than carbohydrates."
+msgstr "crwdns209185:0crwdne209185:0"
+
+msgctxt "product_js_saturated_fat_warning"
+msgid "Saturated fat should not be higher than fat."
+msgstr "crwdns209187:0crwdne209187:0"
+
+msgctxt "packaging_materials"
+msgid "Packaging materials"
+msgstr "crwdns209595:0crwdne209595:0"
+
+msgctxt "packaging_weight_total"
+msgid "Packaging weight"
+msgstr "crwdns209597:0crwdne209597:0"
+
+msgctxt "packaging_weight_100g"
+msgid "Packaging weight per 100 g of product"
+msgstr "crwdns209599:0crwdne209599:0"
+
+msgctxt "packaging_weight_100g_mean"
+msgid "Mean packaging weight per 100 g of product"
+msgstr "crwdns209625:0crwdne209625:0"
+
+msgctxt "total"
+msgid "Total"
+msgstr "crwdns209601:0crwdne209601:0"
+
+msgctxt "packaging_material_products_percent"
+msgid "% of products containing the material"
+msgstr "crwdns209627:0crwdne209627:0"
+
+msgctxt "relative_to_products_containing_the_material"
+msgid "for products that contain the material"
+msgstr "crwdns209629:0crwdne209629:0"
+
+msgctxt "relative_to_all_products"
+msgid "relative to all products"
+msgstr "crwdns209631:0crwdne209631:0"
 
